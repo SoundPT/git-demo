@@ -330,3 +330,4 @@ g.sprites.append(sf)
 g.mainloop()
         
 print('Hello everyone!')
+print('Hello world!')
