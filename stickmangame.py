@@ -329,3 +329,4 @@ sf = StickFigureSprite(g)
 g.sprites.append(sf)
 g.mainloop()
         
+print('Hello everyone!')
