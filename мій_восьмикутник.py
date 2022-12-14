@@ -1,4 +1,4 @@
-mport turtle
+import turtle
 t = turtle.Pen()
 
 def мій_восьмикутник(сторона):
